@@ -1,3 +1,7 @@
+""" https://github.com/WilliamLynn2002/Practical4/blob/master/list_comprehensions.py """
+
+
+
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
 full_names = ["Bob Martin", "Angel Harlem", "Jimi Hendrix", "Alan Turing",
               "Ada Lovelace"]
